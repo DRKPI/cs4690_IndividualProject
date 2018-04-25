@@ -1,6 +1,8 @@
 # CS TUTOR LAB FAQs, HINTS, and GOTCHAS
 <br><br>
 
+*This document is should continually added to by the tutors throughout the year. If a tutor finds themselve spending a large amount time solving problem with a student this is the place to store helpful hints and helps for the other tutors. We are trying to make your life easier so please contribute.*<br><br><br>
+
 ## Frequently Tutored Classes Index
 ---
 <br>
@@ -16,7 +18,6 @@
 ---
 
 <br><br><br><br>
-
 <a name="INFO1200"></a>
 ## INFO 1200 Info Systems Tech Fundamentals
 Count down timer project trips people up.<br>
@@ -48,6 +49,7 @@ Graph using two dimensional array and sets<br>
 ## CS 2810 Computer Organization Architecture
 LC-3 Assembly- Remind students not to wait till the last minute.<br>
 Useful link - http://www.cburch.com/logisim/docs/2.7/en/html/guide/index.html<br>
+
 
 <br><br><br><br>
 <a name="CS3060"></a>
