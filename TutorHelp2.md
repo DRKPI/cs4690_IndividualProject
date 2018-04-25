@@ -46,8 +46,8 @@ Graph using two dimensional array and sets<br>
 <br><br><br><br>
 <a name="CS2810"></a>
 ## CS 2810 Computer Organization Architecture
-LC-3 - Remind students not to wait till the last minute.<br>
-Assembly - <br>
+LC-3 Assembly- Remind students not to wait till the last minute.<br>
+Useful link - http://www.cburch.com/logisim/docs/2.7/en/html/guide/index.html<br>
 
 <br><br><br><br>
 <a name="CS3060"></a>
