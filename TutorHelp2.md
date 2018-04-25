@@ -1,4 +1,4 @@
-# CS TUTOR LAB FAQ, HINTS, and GOTCHAS
+# CS TUTOR LAB FAQs, HINTS, and GOTCHAS
 <br><br>
 
 ## Frequently Tutored Classes Index
